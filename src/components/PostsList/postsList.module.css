@@ -1,0 +1,16 @@
+.postsList {
+    width: 50%;
+    margin: 30px auto;
+}
+
+@media screen and (max-width: 768px) {
+    .postsList {
+        width: 75%;
+    }
+}
+
+@media screen and (max-width: 575px) {
+    .postsList {
+        width: 100%;
+    }
+}
