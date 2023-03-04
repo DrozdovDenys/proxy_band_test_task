@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/proxy_band_test_task/static/css/main.083ccb37.css",
+    "main.css": "/proxy_band_test_task/static/css/main.0379c458.css",
     "main.js": "/proxy_band_test_task/static/js/main.66433b26.js",
     "index.html": "/proxy_band_test_task/index.html",
-    "main.083ccb37.css.map": "/proxy_band_test_task/static/css/main.083ccb37.css.map",
+    "main.0379c458.css.map": "/proxy_band_test_task/static/css/main.0379c458.css.map",
     "main.66433b26.js.map": "/proxy_band_test_task/static/js/main.66433b26.js.map"
   },
   "entrypoints": [
-    "static/css/main.083ccb37.css",
+    "static/css/main.0379c458.css",
     "static/js/main.66433b26.js"
   ]
 }
