@@ -1,3 +1,24 @@
+<h1 align="center">«Test task for Proxy Brand»</h1>
+
+<div align="center"><img src="/src/img/readme.jpg"/></div>
+
+<h2>Використовуючи API <a>JSONplaceholder<a/> створити ReactJS програму.</h2>
+
+<h2>Що потрібно зробити:</h2>
+
+1. Використовуючи запит /users, вивести список користувачів.
+2. Дії на елементі користувача:
+  + При натисканні на кнопку “пости” відобразити його пости (/posts), на окремій сторінці;
+  + При натисканні на кнопку “альбоми” відобразити його альбоми (/albums), у модальному вікні;
+
+<h2>Технології, які необхідно використовувати:</h2>
+
++ ReactJs
++ Redux Toolkit
+
+<h3 align="center"><a href="https://drozdovdenys.github.io/proxy_band_test_task/
+/">SEE LIVE</a></h3>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
